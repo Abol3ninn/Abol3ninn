@@ -65,8 +65,8 @@ Full-stack developer crafting fast, scalable, and user-focused applications.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abol3ninn&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abol3ninn&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abol3nin74&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abol3nin74&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
 </div>
 
 ---
