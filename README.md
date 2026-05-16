@@ -66,7 +66,7 @@ Full-stack developer crafting fast, scalable, and user-focused applications.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=abol3ninn&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abol3ninn&layout=compact&theme=tokyonight&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abol3ninn&layout=donut&theme=tokyonight" height="150" />
 </div>
 
 ---
