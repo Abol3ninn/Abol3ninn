@@ -55,6 +55,10 @@ Full-stack developer crafting fast, scalable, and user-focused applications.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
   <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="llms badge" />
   <img width="12" />
   <img src="https://img.shields.io/badge/RoBERTa-NLP-blueviolet?style=for-the-badge" height="30" alt="roberta badge" />
